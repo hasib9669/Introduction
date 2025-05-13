@@ -29,7 +29,7 @@ body {
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap; /* Damit es bei schmalen Bildschirmen umbricht */
-  text-align: left;
+  text-align: left; 
   gap: 20px;        /* Abstände zwischen Text und Bild */
 }
 
@@ -119,7 +119,7 @@ border-radius: 8px;
 
 /* Zusätzliche Klasse für "in progress"-Text */
 .modal-text {
-display: none;
+display: none; 
 color: #4db6ac;
 font-size: 1.5em;
 margin: 20px 0;
